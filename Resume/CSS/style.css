@@ -336,4 +336,8 @@ a {
 		flex-direction: column;
 		text-align: center;
 	}
+	.ref-list,
+	.skills-section ul {
+		padding-left: 0;
+	}
 }
